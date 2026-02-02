@@ -345,17 +345,22 @@ echo "[+] Philosophy: Offensive security with a defensive mindset"
   <span> GitHub Analytics </span>
 </h2>
 
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yusuwyildirim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=C9D1D9&count_private=true" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuwyildirim&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="Streak Stats">
+  <a href="https://github.com/yusuwyildirim">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusuwyildirim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusuwyildirim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuwyildirim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuwyildirim&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" alt="Activity Graph" width="95%"/>
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yusuwyildirim&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies">
+  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=yusuwyildirim&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF6347&currStreakLabel=FF0000&sideNums=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideLabels=FF0000" alt="Streak Stats" width="60%"/>
 </p>
 
 ---
